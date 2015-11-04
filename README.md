@@ -1,2 +1,2 @@
 # helpful-progs
-helpful C++ progs that are used by other projects.
+These are all helpful C++ progs that are used by other projects.
